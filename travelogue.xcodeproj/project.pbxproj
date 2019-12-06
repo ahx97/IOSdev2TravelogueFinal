@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E61D40CD23998BB20031F60B /* AddTripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E61D40CC23998BB20031F60B /* AddTripViewController.swift */; };
-		E61D40CF23998BE10031F60B /* NewTripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E61D40CE23998BE10031F60B /* NewTripViewController.swift */; };
+		E61D40D1239AD9700031F60B /* ViewTripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E61D40D0239AD9700031F60B /* ViewTripViewController.swift */; };
 		E6E11C372374B9C500218E99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E11C362374B9C500218E99 /* AppDelegate.swift */; };
 		E6E11C392374B9C500218E99 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E11C382374B9C500218E99 /* SceneDelegate.swift */; };
 		E6E11C3B2374B9C500218E99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E11C3A2374B9C500218E99 /* ViewController.swift */; };
@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		E61D40CC23998BB20031F60B /* AddTripViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTripViewController.swift; sourceTree = "<group>"; };
-		E61D40CE23998BE10031F60B /* NewTripViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTripViewController.swift; sourceTree = "<group>"; };
+		E61D40D0239AD9700031F60B /* ViewTripViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTripViewController.swift; sourceTree = "<group>"; };
 		E6E11C332374B9C500218E99 /* travelogue.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = travelogue.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6E11C362374B9C500218E99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E6E11C382374B9C500218E99 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,7 +79,7 @@
 				E6E11C442374B9C600218E99 /* LaunchScreen.storyboard */,
 				E6E11C472374B9C600218E99 /* Info.plist */,
 				E61D40CC23998BB20031F60B /* AddTripViewController.swift */,
-				E61D40CE23998BE10031F60B /* NewTripViewController.swift */,
+				E61D40D0239AD9700031F60B /* ViewTripViewController.swift */,
 			);
 			path = travelogue;
 			sourceTree = "<group>";
@@ -157,9 +157,9 @@
 			files = (
 				E61D40CD23998BB20031F60B /* AddTripViewController.swift in Sources */,
 				E6E11C3B2374B9C500218E99 /* ViewController.swift in Sources */,
-				E61D40CF23998BE10031F60B /* NewTripViewController.swift in Sources */,
 				E6E11C412374B9C500218E99 /* travelogue.xcdatamodeld in Sources */,
 				E6E11C372374B9C500218E99 /* AppDelegate.swift in Sources */,
+				E61D40D1239AD9700031F60B /* ViewTripViewController.swift in Sources */,
 				E6E11C392374B9C500218E99 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

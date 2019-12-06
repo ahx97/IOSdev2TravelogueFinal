@@ -1,25 +1,22 @@
 //
-//  AddTripViewController.swift
+//  ViewTripViewController.swift
 //  travelogue
 //
-//  Created by Aaron Henry on 12/5/19.
+//  Created by Aaron Henry on 12/6/19.
 //  Copyright © 2019 Aaron Henry. All rights reserved.
 //
 
 import UIKit
 
-class AddTripViewController: UIViewController {
-    
-    @IBOutlet weak var titleTextField: UITextField!
-    @IBOutlet weak var datePicker: UIDatePicker!
-    @IBOutlet weak var textBox: UITextView!
-    
+class ViewTripViewController: UIViewController {
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
+
     /*
     // MARK: - Navigation
 
